@@ -11,4 +11,4 @@
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexMakovetskiy&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlexWebTech&theme=dark&background=000000)](https://git.io/streak-stats)
